@@ -3,5 +3,8 @@ body{
     color: lightsalmon;
     align-items: center;
     align-self: center;
+    align-content: center;
+    margin: 20%;
     
+
 }
